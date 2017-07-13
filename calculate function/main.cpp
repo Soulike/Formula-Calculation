@@ -1,7 +1,6 @@
 /*Created by Soulike in SSDUT, July 13, 2017*/
 /*Tested on Visual Studio 2017. Your translater is required to support C++11*/
 
-#include<iostream>
 #include<vector>
 #include<string>
 #include<algorithm>
