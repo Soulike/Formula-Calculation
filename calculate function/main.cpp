@@ -10,7 +10,7 @@
 double calculate(std::string equation);
 static bool isSignal(char c);
 
-/*Calculate function, based on recursion*/
+/*Calculating function, based on recursion*/
 /*Note: You need to ensure that your formula is correct. It can only detect a few errors.*/
 double calculate(std::string formula)
 {
